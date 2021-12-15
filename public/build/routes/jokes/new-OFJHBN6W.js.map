@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/home/pgarcia/code/remix/remix-jokes/app/routes/jokes/new.tsx?browser"],
+  "sourcesContent": ["export * from \"/home/pgarcia/code/remix/remix-jokes/app/routes/jokes/new.tsx\";"],
+  "mappings": ";;;;;AAAA;",
+  "names": []
+}

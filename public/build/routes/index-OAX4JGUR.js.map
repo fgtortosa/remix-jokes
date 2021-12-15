@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/home/pgarcia/code/remix/remix-jokes/app/routes/index.tsx?browser", "../../../app/routes/index.tsx"],
+  "sourcesContent": ["export { default, links } from \"/home/pgarcia/code/remix/remix-jokes/app/routes/index.tsx\";", "import type { LinksFunction } from \"remix\";\nimport stylesUrl from \"../styles/index.css\";\n\nexport let links: LinksFunction = () => {\n  return [{ rel: \"stylesheet\", href: stylesUrl }];\n};\nexport default function IndexRoute() {\n    return <div>Hello Index Route</div>;\n  }"],
+  "mappings": ";;;;;;AAAA;;;ACAA;;;;;;AAGO,IAAI,QAAuB,MAAM;AACtC,SAAO,CAAC,EAAE,KAAK,cAAc,MAAM;AAAA;AAEtB,sBAAsB;AACjC,SAAO,oCAAC,OAAD,MAAK;AAAA;",
+  "names": []
+}

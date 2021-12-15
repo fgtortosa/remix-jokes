@@ -1,0 +1,1 @@
+window.__remixManifest={"version":"57afb23a","entry":{"module":"/build/entry.client-H73SPUYC.js","imports":["/build/_shared/chunk-UFCUEXCT.js"]},"routes":{"root":{"id":"root","path":"","module":"/build/root-CVMPH67Z.js","hasAction":false,"hasLoader":false,"hasCatchBoundary":false,"hasErrorBoundary":false}},"url":"/build/manifest-57AFB23A.js"};

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/home/pgarcia/code/remix/remix-jokes/app/routes/jokes/index.tsx?browser", "../../../../app/routes/jokes/index.tsx"],
+  "sourcesContent": ["export { default } from \"/home/pgarcia/code/remix/remix-jokes/app/routes/jokes/index.tsx\";", "export default function JokesIndexRoute() {\n    return (\n      <div>\n        <p>Here's a random joke:</p>\n        <p>\n          I was wondering why the frisbee was getting bigger,\n          then it hit me.\n        </p>\n      </div>\n    );\n  }"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,2BAA2B;AACtC,SACE,oCAAC,OAAD,MACE,oCAAC,KAAD,MAAG,0BACH,oCAAC,KAAD,MAAG;AAAA;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/home/pgarcia/code/remix/remix-jokes/app/routes/jokes.tsx?browser", "../../../app/routes/jokes.tsx"],
+  "sourcesContent": ["export { default } from \"/home/pgarcia/code/remix/remix-jokes/app/routes/jokes.tsx\";", "import { Outlet } from \"remix\";\n\nexport default function JokesRoute() {\n  return (\n    <div>\n      <h1>J\uD83E\uDD2AKES</h1>\n      <main>\n        <Outlet />\n      </main>\n    </div>\n  );\n}"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAEe,sBAAsB;AACnC,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD,MAAI,kBACJ,oCAAC,QAAD,MACE,oCAAC,gCAAD;AAAA;",
+  "names": []
+}
